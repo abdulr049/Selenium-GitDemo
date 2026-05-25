@@ -60,6 +60,20 @@ public class SubmitOrderTest extends BaseTest {
 		
 	}
 	
+	public void gitDemo2()
+	{
+		System.out.println("This is dmo for git :");
+		
+		String a="";
+		String b="";
+		String c="";
+		String d="";
+		String e="";
+		String f="";
+		String g="";
+		
+	}
+	
 	
 	
 	
