@@ -51,4 +51,10 @@ public class SubmitOrderTest extends BaseTest {
 		System.out.println("GitHub Demo ");
 	}
 	
+	@Test
+	public void demo2()
+	{
+		System.out.println("GitHub Demo 2");
+	}
+	
 }
