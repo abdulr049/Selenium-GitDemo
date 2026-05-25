@@ -51,4 +51,10 @@ public class SubmitOrderTest extends BaseTest {
 		System.out.println("This is jenkins Hook Demo ");
 	}
 	
+	@Test
+	public void jenkinsHookDemo2()
+	{
+		System.out.println("This is jenkins Hook Demo ");
+	}
+	
 }
