@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-05-22T12:46:48 IST" name="Default suite" finished-at="2026-05-22T12:46:54 IST" duration-ms="6829">
+  <suite started-at="2026-05-25T11:01:43 IST" name="Suite" finished-at="2026-05-25T11:01:51 IST" duration-ms="7698">
     <groups>
     </groups>
-    <test started-at="2026-05-22T12:46:48 IST" name="Default test" finished-at="2026-05-22T12:46:54 IST" duration-ms="6829">
+    <test started-at="2026-05-25T11:01:43 IST" name="Test" finished-at="2026-05-25T11:01:51 IST" duration-ms="7698">
       <class name="seleniumFrameWork.SubmitOrderTest">
-        <test-method is-config="true" signature="launchApplication()[pri:0, instance:seleniumFrameWork.SubmitOrderTest@233795b6]" started-at="2026-05-22T12:46:48 IST" name="launchApplication" finished-at="2026-05-22T12:46:51 IST" duration-ms="2427" status="PASS">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:seleniumFrameWork.SubmitOrderTest@3857f613]" started-at="2026-05-25T11:01:44 IST" name="launchApplication" finished-at="2026-05-25T11:01:47 IST" duration-ms="3389" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchApplication -->
-        <test-method signature="submitOrderTest(java.util.HashMap)[pri:-1, instance:seleniumFrameWork.SubmitOrderTest@233795b6]" started-at="2026-05-22T12:46:51 IST" name="submitOrderTest" data-provider="getDataFromMap" finished-at="2026-05-22T12:46:54 IST" duration-ms="3611" status="PASS">
+        <test-method signature="submitOrderTest(java.util.HashMap)[pri:-1, instance:seleniumFrameWork.SubmitOrderTest@3857f613]" started-at="2026-05-25T11:01:47 IST" name="submitOrderTest" data-provider="getDataFromMap" finished-at="2026-05-25T11:01:51 IST" duration-ms="3526" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,6 +23,6 @@
           </reporter-output>
         </test-method> <!-- submitOrderTest -->
       </class> <!-- seleniumFrameWork.SubmitOrderTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

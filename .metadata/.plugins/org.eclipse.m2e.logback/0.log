@@ -1,0 +1,11 @@
+2026-05-25 10:51:36,527 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2026-05-25 10:53:26,255 [Worker-14: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumFrameWork:SeleniumFrameworkDesign:0.0.1-SNAPSHOT @ C:\Users\AbdulRahaman\Eclipse Work space- GitHub Demo-2\GitDemoFiles-1\pom.xml.
+2026-05-25 10:53:27,387 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SeleniumFrameworkDesign/src/main/java
+2026-05-25 10:53:27,389 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SeleniumFrameworkDesign/src/main/resources
+2026-05-25 10:53:27,390 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SeleniumFrameworkDesign/src/test/java
+2026-05-25 10:53:27,391 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SeleniumFrameworkDesign/src/test/resources
+2026-05-25 10:53:27,548 [Worker-14: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2026-05-25 10:53:28,983 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AbdulRahaman\Eclipse Work space- GitHub Demo-2\GitDemoFiles-1\src\main\resources
+2026-05-25 10:53:28,988 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AbdulRahaman\Eclipse Work space- GitHub Demo-2\GitDemoFiles-1\src\test\resources
+2026-05-25 10:53:51,929 [main] INFO  o.e.m.jdt.internal.UnitTestSupport - Updating SeleniumFrameworkDesign_testng.xml from maven configuration
+2026-05-25 10:57:17,075 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
