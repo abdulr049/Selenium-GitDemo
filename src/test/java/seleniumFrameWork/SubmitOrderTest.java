@@ -42,6 +42,17 @@ public class SubmitOrderTest extends BaseTest {
 		submitOrderPage.goToSubmitOrderPage();
 		submitOrderPage.validateOrderConfirmationMessage();
 		// test.pass("Order Submitted Successfully");
+		
 
 	}
+	
+	public void gitDemo()
+	{
+		System.out.println("This is dmo for git :");
+	}
+	
+	
+	
+	
+	
 }
