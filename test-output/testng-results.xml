@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-05-25T11:01:43 IST" name="Suite" finished-at="2026-05-25T11:01:51 IST" duration-ms="7698">
+  <suite started-at="2026-05-25T13:11:20 IST" name="Suite" finished-at="2026-05-25T13:11:29 IST" duration-ms="9896">
     <groups>
     </groups>
-    <test started-at="2026-05-25T11:01:43 IST" name="Test" finished-at="2026-05-25T11:01:51 IST" duration-ms="7698">
+    <test started-at="2026-05-25T13:11:20 IST" name="Test" finished-at="2026-05-25T13:11:29 IST" duration-ms="9896">
       <class name="seleniumFrameWork.SubmitOrderTest">
-        <test-method is-config="true" signature="launchApplication()[pri:0, instance:seleniumFrameWork.SubmitOrderTest@3857f613]" started-at="2026-05-25T11:01:44 IST" name="launchApplication" finished-at="2026-05-25T11:01:47 IST" duration-ms="3389" status="PASS">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:seleniumFrameWork.SubmitOrderTest@15de0b3c]" started-at="2026-05-25T13:11:20 IST" name="launchApplication" finished-at="2026-05-25T13:11:26 IST" duration-ms="5456" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchApplication -->
-        <test-method signature="submitOrderTest(java.util.HashMap)[pri:-1, instance:seleniumFrameWork.SubmitOrderTest@3857f613]" started-at="2026-05-25T11:01:47 IST" name="submitOrderTest" data-provider="getDataFromMap" finished-at="2026-05-25T11:01:51 IST" duration-ms="3526" status="PASS">
+        <test-method signature="submitOrderTest(java.util.HashMap)[pri:-1, instance:seleniumFrameWork.SubmitOrderTest@15de0b3c]" started-at="2026-05-25T13:11:26 IST" name="submitOrderTest" data-provider="getDataFromMap" finished-at="2026-05-25T13:11:29 IST" duration-ms="3697" status="PASS">
           <params>
             <param index="0">
               <value>
